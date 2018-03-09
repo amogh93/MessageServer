@@ -1,6 +1,6 @@
 # MessageServer
 Java REST Web Service For Android Chat Application<br />
-## For Android Client App, go to https://github.com/amogh93/Locator
+<b>For Android client app, go to https://github.com/amogh93/Locator</b>
 <br />Tools and technologies<br />
 <ul>
   <li>Firebase Cloud Messaging (FCM)</li>
@@ -10,3 +10,4 @@ Java REST Web Service For Android Chat Application<br />
   <li>Hibernate and EHcache</li>
   <li>MySQL</li>
 </ul>
+
